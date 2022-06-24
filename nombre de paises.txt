@@ -1,0 +1,48 @@
+	América:
+Argentina
+Perú
+Brasil
+Bolivia
+Ecuador
+Estados Unidos
+
+	Asia:
+China
+
+Corea del Norte
+Corea del Sur
+
+India
+Japón
+Rusia
+Singapur
+
+	África:
+Argelia
+Camerún
+Egipto
+Liberia
+Senegal
+Sudáfrica
+
+	Europa:
+Alemania
+Dinamarca
+España
+Francia
+Rusia
+Suiza
+
+	Oceanía:
+Australia
+Fiyi
+Micronesia
+Nauru
+Nueva Zelanda
+Papúa Nueva Guinea
+Samoa
+
+
+
+
+
