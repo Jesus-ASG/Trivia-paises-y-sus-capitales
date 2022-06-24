@@ -1,7 +1,8 @@
 # Trivia "Países y sus capitales"
+## Descripción
 Un juego hecho en Java para poner a prueba conocimientos sobre cuántas capitales de países conoce.
 
-# Uso
+## Uso
 Al ejecutar aparecerá la siguiente interfaz.<br>
 Podemos seleccionar el continente que queramos.
 ![image](https://user-images.githubusercontent.com/106128245/175450101-31356dec-b074-4fd9-bbb9-710a73642d8f.png)
